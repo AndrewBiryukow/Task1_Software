@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "TradeTestDbConnection": "Server=.\\SQLEXPRESS;Database=TradingCompanyTestDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}

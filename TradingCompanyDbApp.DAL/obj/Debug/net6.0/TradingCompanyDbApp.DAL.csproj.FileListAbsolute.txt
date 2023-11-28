@@ -1,0 +1,15 @@
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\bin\Debug\net6.0\TradingCompanyDbApp.DAL.deps.json
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\bin\Debug\net6.0\TradingCompanyDbApp.DAL.dll
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\bin\Debug\net6.0\TradingCompanyDbApp.DAL.pdb
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\bin\Debug\net6.0\TradingCompanyDbApp.DTO.dll
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\bin\Debug\net6.0\TradingCompanyDbApp.DTO.pdb
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.csproj.AssemblyReference.cache
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.AssemblyInfoInputs.cache
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.AssemblyInfo.cs
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.csproj.CoreCompileInputs.cache
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.csproj.CopyComplete
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.dll
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\refint\TradingCompanyDbApp.DAL.dll
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.pdb
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\ref\TradingCompanyDbApp.DAL.dll
