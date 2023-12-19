@@ -17,4 +17,8 @@
     <ProjectReference Include="..\TradingCompanyDbApp.DTO\TradingCompanyDbApp.DTO.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migration\" />
+  </ItemGroup>
+
 </Project>

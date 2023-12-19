@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5khtHPGJwl/PdBYH3Ek8rbVmoijS1RB6CoOm27FTr2Nll7CmA9q7DVJEp3qaJpEpmWxVJsHqSSCgvZa18rVwaw==",
+  "dgSpecHash": "OFS+7FXxxbgHC6NxXcm0UVaZSqvzN4qCWpCpztWe3gLpy6a+fYCeq6EIR9v13v6v2I+3nPm+eHegC3O6Mxoxkw==",
   "success": true,
   "projectFilePath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DAL.Tests\\TradingCompanyDbApp.DAL.Tests.csproj",
   "expectedPackageFiles": [

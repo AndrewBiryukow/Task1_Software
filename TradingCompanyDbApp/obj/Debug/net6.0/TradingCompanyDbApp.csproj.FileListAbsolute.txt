@@ -75,3 +75,4 @@ K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp\obj\Debug\net6.0\refin
 K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp\obj\Debug\net6.0\TradingCompanyDbApp.pdb
 K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp\obj\Debug\net6.0\TradingCompanyDbApp.genruntimeconfig.cache
 K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp\obj\Debug\net6.0\ref\TradingCompanyDbApp.dll
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp\obj\Debug\net6.0\TradingCompanyDbApp.sourcelink.json

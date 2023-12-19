@@ -1,0 +1,85 @@
+﻿<Window x:Class="WPF.Windows.LoginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.Windows" xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        mc:Ignorable="d"
+        Title="Login view" Height="450" Width="380" 
+        AllowsTransparency="True"
+        Background="#FF00A3CC"
+        WindowStyle="None"
+        ResizeMode="NoResize">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid Background="#FF00A3CC">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="10" Grid.RowSpan="2" Background="#FF00A3CC"/>
+
+
+            <StackPanel VerticalAlignment="Center" Grid.Row="0">
+                <TextBlock Text="Login Menu" 
+                           FontWeight="Light" 
+                           FontSize="22" 
+                           FontFamily="Helvetica"
+                           HorizontalAlignment="Center"
+                           Foreground="White"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" >
+                <StackPanel Orientation="Horizontal">
+                    <TextBox FontFamily="Helvetica" 
+                           FontWeight="Light" 
+                           FontSize="20"
+                           Foreground="White" 
+                           Background="Transparent"
+                           Text="{Binding Username}"
+                           Opacity="0.5"
+                           Width="240"
+                           Height="25"
+                           Margin="70, 0, 0, 0"/>
+                    <iconPacks:PackIconMaterial Kind="AccountCircle"
+                                 VerticalAlignment="Center"
+                                 Foreground="White"
+                                 HorizontalAlignment="Center"
+                                 Width="20" Height="20" Opacity="0.5" Margin="6,0,0,0"/>
+                </StackPanel>
+                <Border Width="235" Height="2" Background="White" Opacity="0.5"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0, 20, 0, 0">
+                    <PasswordBox FontFamily="Helvetica" 
+                           FontWeight="Light" 
+                           FontSize="20"
+                           Foreground="White" 
+                           Background="Transparent"
+                           Opacity="0.5"
+                           Width="240"
+                           Height="25"
+                           Margin="70, 0, 0, 0" PasswordChanged="PasswordBox_PasswordChanged"/>
+                    <iconPacks:PackIconMaterial Kind="Lock"
+                                 VerticalAlignment="Center"
+                                 Foreground="White"
+                                 HorizontalAlignment="Center"
+                                 Width="20" Height="20" Opacity="0.5" Margin="8,0,0,0"/>
+                </StackPanel>
+                <Border Width="235" Height="2" Background="White" Opacity="0.5"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,50,0,0" HorizontalAlignment="Center">
+                    <Button Width="100" Height="40" Style="{StaticResource fancyButton}" Content="Cancel" Margin="0,0,50,0" Command="{Binding CancelCommand}"></Button>
+                    <Button Width="100" Height="40" Style="{StaticResource fancyButton}" Content="Login" Command="{Binding LoginCommand}"></Button>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

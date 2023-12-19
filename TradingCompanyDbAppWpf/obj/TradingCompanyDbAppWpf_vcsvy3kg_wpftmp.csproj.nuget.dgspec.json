@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbAppWpf\\TradingCompanyDbAppWpf.csproj": {}
+  },
+  "projects": {
+    "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DAL\\TradingCompanyDbApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DAL\\TradingCompanyDbApp.DAL.csproj",
+        "projectName": "TradingCompanyDbApp.DAL",
+        "projectPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DAL\\TradingCompanyDbApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DTO\\TradingCompanyDbApp.DTO.csproj": {
+                "projectPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DTO\\TradingCompanyDbApp.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DTO\\TradingCompanyDbApp.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DTO\\TradingCompanyDbApp.DTO.csproj",
+        "projectName": "TradingCompanyDbApp.DTO",
+        "projectPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DTO\\TradingCompanyDbApp.DTO.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbAppWpf\\TradingCompanyDbAppWpf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbAppWpf\\TradingCompanyDbAppWpf.csproj",
+        "projectName": "TradingCompanyDbAppWpf",
+        "projectPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbAppWpf\\TradingCompanyDbAppWpf.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbAppWpf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DAL\\TradingCompanyDbApp.DAL.csproj": {
+                "projectPath": "K:\\CSharpProjects\\TradingCompanyDbApp\\TradingCompanyDbApp.DAL\\TradingCompanyDbApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MahApps.Metro.IconPacks.Material": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "MaterialDesign.Avalonia.PackIcon": {
+              "target": "Package",
+              "version": "[1.34.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

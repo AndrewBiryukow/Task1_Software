@@ -13,3 +13,4 @@ K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\T
 K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\refint\TradingCompanyDbApp.DAL.dll
 K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.pdb
 K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\ref\TradingCompanyDbApp.DAL.dll
+K:\CSharpProjects\TradingCompanyDbApp\TradingCompanyDbApp.DAL\obj\Debug\net6.0\TradingCompanyDbApp.DAL.sourcelink.json
